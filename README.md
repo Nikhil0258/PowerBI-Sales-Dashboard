@@ -21,7 +21,7 @@ This is a beginner-level Power BI project focused on building a Sales Dashboard 
 
 ## 📁 Files Included
 - `Sales_Dashboard.pbix`: Power BI file
-- `sales_data.csv`: Source dataset (optional)
+- `Sample - Superstore.csv`: Source dataset (optional)
 - `README.md`: Project documentation
 - `/screenshots/`: Dashboard image
 
