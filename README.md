@@ -17,7 +17,7 @@ This is a beginner-level Power BI project focused on building a Sales Dashboard 
 - Detailed table with product-level insights
 
 ## 📷 Dashboard Screenshot
-![Dashboard Screenshot](screenshots/sales-dashboard.png)
+![Dashboard Screenshot](screenshots/Sales-Dashboard.png)
 
 ## 📁 Files Included
 - `Sales_Dashboard.pbix`: Power BI file
